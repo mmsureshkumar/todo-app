@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f6143f1-3434-422e-96af-952f1d6ff995" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/bonus9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus/questions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bonus1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/pra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/average.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/members.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/todos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsers.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eQN5vvxSxIBMXQLGlCpKQhfmHZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.bonus1.executor": "Run",
+    "Python.bonus10.executor": "Run",
+    "Python.bonus11.executor": "Run",
+    "Python.bonus12.executor": "Run",
+    "Python.bonus13.executor": "Run",
+    "Python.bonus14.executor": "Run",
+    "Python.bonus15.executor": "Run",
+    "Python.bonus16.executor": "Run",
+    "Python.bonus17.executor": "Run",
+    "Python.bonus18.executor": "Run",
+    "Python.bonus2.executor": "Run",
+    "Python.bonus3.executor": "Run",
+    "Python.bonus4.executor": "Run",
+    "Python.bonus5.executor": "Run",
+    "Python.bonus6.executor": "Run",
+    "Python.bonus7.executor": "Run",
+    "Python.bonus8.executor": "Run",
+    "Python.e1.executor": "Run",
+    "Python.e2.executor": "Run",
+    "Python.e3.executor": "Run",
+    "Python.e4.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.gui.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pra.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/smurugas/OneDrive - Capgemini/Documents/Python/pythonProject/files",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\smurugas\OneDrive - Capgemini\Documents\Python\pythonProject\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\smurugas\OneDrive - Capgemini\Documents\Python\pythonProject\modules" />
+      <recent name="C:\Users\smurugas\OneDrive - Capgemini\Documents\Python\pythonProject\files" />
+      <recent name="C:\Users\smurugas\OneDrive - Capgemini\Documents\Python\pythonProject" />
+      <recent name="C:\Users\smurugas\OneDrive - Capgemini\Documents\Python\pythonProject\experiment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bonus18">
+    <configuration name="bonus14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus/bonus14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bonus16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus/bonus16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bonus17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus/bonus17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bonus18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus/bonus18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bonus18" />
+        <item itemvalue="Python.bonus17" />
+        <item itemvalue="Python.bonus16" />
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.bonus14" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6143f1-3434-422e-96af-952f1d6ff995" name="Changes" comment="" />
+      <created>1711832662114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711832662114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bonus/bonus6.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bonus/bonus7.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
